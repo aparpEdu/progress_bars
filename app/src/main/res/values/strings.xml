@@ -2,4 +2,7 @@
     <string name="app_name">lab8</string>
     <string name="email">email</string>
     <string name="validate">validate</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
 </resources>
